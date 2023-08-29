@@ -16,7 +16,6 @@ Tenho 33 anos, sou casado e tenho duas lindas filhas. Trabalho no ramo de auto s
 ## Você pode me encontrar aqui &#8595; &#8595; &#8595; 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-winkler-651982191/)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/rafa.winkler/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/rafawinkler/)
 
 
