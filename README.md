@@ -1,8 +1,5 @@
 # Seja bem-vindo! Sou Rafael Winkler, aqui começa minha jornada como futuro dev!!!
 
-
-Tenho 33 anos, sou casado e tenho duas lindas filhas. Trabalho no ramo de auto socorro há pouco mais de 12 anos. Agora, resolvi me desafiar e mudar de carreira ou até mesmo somar, quem sabe. Estou cursando Análise e Desenvolvimento de Sistemas. 
-
 ## Busco conhecimentos mais específicos em cursos complementares para além da faculdade:
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
