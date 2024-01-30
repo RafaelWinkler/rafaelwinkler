@@ -26,6 +26,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelWinkler&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelWinkler/dio-lab-open-source)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelWinkler&repo=linux-projeto-iac&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelWinkler/linux-projeto-iac)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelWinkler&repo=campo-minado-swing&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelWinkler/campo-minado-swing)
