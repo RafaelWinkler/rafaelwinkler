@@ -6,7 +6,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 
